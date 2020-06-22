@@ -5,4 +5,5 @@ Der Pate (englischer Originaltitel The Godfather; italienisch Il Padrino) von Ma
 * loyal
 * brutal
 * machthungrig
-
+As the godfather said: 
+> I'll make him an offer he can't refuse.
